@@ -20,7 +20,7 @@ cd /Work/Cim_Finance
 npm run digital_product_analyst  
 ```
 
-## Exploring
+## Exploration
 ```
 cd /Cloud/AWS
 aws lambda s3 sqs dynamodb sagemaker rekognition
