@@ -11,13 +11,13 @@ find Madani-Napaul
 ## Education
 ```
 cd /Education/African_Leadership_University
-npm i bsc-hons-computing-senior  
+npm i BSc-Hons-Computing-Senior  
 ```
 
 ## Work
 ```
 cd /Work/Cim_Finance
-npm run digital_product_analyst  
+npm run Digital_Product_Analyst  
 ```
 
 ## Exploration
@@ -28,12 +28,12 @@ aws lambda s3 sqs dynamodb sagemaker rekognition
 
 ```
 cd /Open_Banking/Income_Identity_Verification
-npm i digital_id income_validation payroll
+npm i Digital_ID Income_Verification Payroll
 ```
 
 ```
 cd /Digital_Finance/Consumer_Lending  
-npm i predictive_credit_risk federated_learning 
+npm i Predictive_Credit_Risk Federated_Learning 
 ```
 
 ## Contact
