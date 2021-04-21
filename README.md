@@ -1,25 +1,25 @@
-# Hey there, it's Madani!
+# 🌍 Hey there, it's Madani!
 
-## Introduction
+## 👋🏽 Introduction
 ```
 cd /Milky-Way/Earth/Africa/Mauritius
 ls -a
 find Madani-Napaul
 ```
 
-## Education
+## 🎓 Education
 ```
 cd /Education/African_Leadership_University
 npm i BSc-Hons-Computing-Senior  
 ```
 
-## Work
+## 👔 Work
 ```
 cd /Work/Cim_Finance
 npm run Digital_Product_Analyst  
 ```
 
-## Exploration
+## 🧭 Exploration
 ```
 cd /Cloud/AWS
 aws lambda s3 sqs dynamodb sagemaker rekognition
@@ -35,7 +35,7 @@ cd /Digital_Finance/Consumer_Lending
 npm i Predictive_Credit_Risk Federated_Learning 
 ```
 
-## Contact
+## ✉️ Contact
 ```
 cd /Email
 mail -s 'Hey Madani!' madaninapaul@gmail.com
