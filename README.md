@@ -3,7 +3,7 @@
 Hey there, I'm Madani Napaul from Mauritius! 
 
 ```
-cd /World/Africa/Mauritius
+cd /Milky-Way/Earth/Africa/Mauritius
 ls -a
 find Madani-Napaul
 ```
