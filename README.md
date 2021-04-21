@@ -39,8 +39,8 @@ npm i predictive_credit_risk federated_learning
 ## Contact
 ```
 cd /Email
-find madaninapaul@gmail.com
+mail -s 'Hey Madani!' madaninapaul@gmail.com
 
 cd /LinkedIn
-find www.linkedin.com/in/madaninapaul  
+wget https://www.linkedin.com/in/madaninapaul
 ```
