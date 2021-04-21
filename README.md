@@ -1,7 +1,6 @@
-# Introduction
+# Hey there, it's Madani!
 
-Hey there, I'm Madani Napaul from Mauritius! 
-
+## Introduction
 ```
 cd /Milky-Way/Earth/Africa/Mauritius
 ls -a
