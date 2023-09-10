@@ -10,13 +10,13 @@ find Madani-Napaul
 ### 🎓 Education
 ```
 cd /Education/African_Leadership_University
-npm i BSc-Hons-Computing-Senior  
+npm i BSc-Hons-Computer Science
 ```
 
 ### 👔 Work 
 ```
 cd /Work/Cim_Finance
-npm run Digital_Product_Analyst  
+npm run Product_Manager
 ```
 
 ### 🧭 Exploration 
@@ -38,7 +38,7 @@ npm i Predictive_Credit_Risk Federated_Learning
 ### ✉️ Contact
 ```
 cd /Email
-mail -s 'Hey Madani!' madaninapaul@gmail.com
+mail -s 'Hey Madani!' contact@madaninapaul.com
 
 cd /LinkedIn
 wget https://www.linkedin.com/in/madaninapaul
