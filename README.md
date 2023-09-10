@@ -10,7 +10,7 @@ find Madani-Napaul
 ### 🎓 Education
 ```
 cd /Education/African_Leadership_University
-npm i BSc-Hons-Computer Science
+npm i BSc-Hons-Computer-Science
 ```
 
 ### 👔 Work 
